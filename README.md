@@ -74,3 +74,4 @@ python Run_me.py
 
 
 
+# bot-easy
